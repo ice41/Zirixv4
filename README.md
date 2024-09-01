@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ice41/ZirixV4">
-    <img src="[https://github.com/ice41/ZirixV4/assets/1908605/8b2b4009-fc7a-4a15-b228-3f66adf16f6c](https://github.com/ice41/ZIRIXV3-linux)" alt="Logo" width="80" height="80">
+    <img src="https://github.com/ice41/ZIRIXV3-linux/assets/1908605/8b2b4009-fc7a-4a15-b228-3f66adf16f6c" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Zirix V4</h3>
