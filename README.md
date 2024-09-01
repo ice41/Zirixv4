@@ -54,7 +54,7 @@
 ## Sobre o projeto
 
 # ZIRIX V4 -
-**Foi leaked à muito tempo apenas estou a partilhar o que é publico*
+**Foi leaked à muito tempo apenas estou a partilhar o que é publico**
 **ZIRIX é uma base vRPex para FiveM, com um conjunto de scripts da comunidade e do grupo de desenvolvimento da ZIRAFLIX**.
 **Ice41 realizou deiversos projectos em servidores de Portugal e Brasil sendo Gestor e programador do servidor**.
 
